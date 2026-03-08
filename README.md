@@ -39,6 +39,11 @@ Design decisions further elaborated in [DESIGN.md](DESIGN.md).
 - AI toggle at top (`AI Insights`) to switch AI on/off
 - Floating “Ask me anything” assistant
 
+![Dashboard](figures/dashboard.png)
+![View and Search for Items](figures/view_search.png)
+![Consumption Trends (Itemwise)](figures/consumption_trends.png)
+![Reorder Insights with the opened AI Chat](figures/reorder_insights_with_chat.png)
+
 ---
 
 ## Tech Stack

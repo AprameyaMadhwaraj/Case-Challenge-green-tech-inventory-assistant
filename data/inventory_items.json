@@ -1,0 +1,90 @@
+[
+  {
+    "id": "inv_001",
+    "name": "Espresso Beans",
+    "category": "Coffee & Tea",
+    "unit": "kg",
+    "current_stock": 2.0,
+    "reorder_level": 5.0,
+    "shelf_life_days": 30,
+    "unit_cost": 18.5,
+    "supplier_notes": "Fair-trade, organic"
+  },
+  {
+    "id": "inv_002",
+    "name": "Whole Milk",
+    "category": "Dairy",
+    "unit": "L",
+    "current_stock": 24.0,
+    "reorder_level": 12.0,
+    "shelf_life_days": 7,
+    "unit_cost": 1.2,
+    "supplier_notes": "Local dairy"
+  },
+  {
+    "id": "inv_003",
+    "name": "Oat Milk",
+    "category": "Dairy",
+    "unit": "L",
+    "current_stock": 8.0,
+    "reorder_level": 6.0,
+    "shelf_life_days": 10,
+    "unit_cost": 2.8,
+    "supplier_notes": "Plant-based"
+  },
+  {
+    "id": "inv_004",
+    "name": "Croissant",
+    "category": "Pastries",
+    "unit": "pieces",
+    "current_stock": 20,
+    "reorder_level": 15,
+    "shelf_life_days": 2,
+    "unit_cost": 1.8,
+    "supplier_notes": "Daily delivery available"
+  },
+  {
+    "id": "inv_005",
+    "name": "Muffin Mix",
+    "category": "Dry Goods",
+    "unit": "kg",
+    "current_stock": 4.0,
+    "reorder_level": 2.0,
+    "shelf_life_days": 90,
+    "unit_cost": 6.5,
+    "supplier_notes": "Bulk supplier"
+  },
+  {
+    "id": "inv_006",
+    "name": "Paper Cups (12oz)",
+    "category": "Packaging",
+    "unit": "sleeves",
+    "current_stock": 15,
+    "reorder_level": 10,
+    "shelf_life_days": 365,
+    "unit_cost": 12.0,
+    "supplier_notes": "Recyclable"
+  },
+  {
+    "id": "inv_007",
+    "name": "Syrup - Vanilla",
+    "category": "Condiments",
+    "unit": "bottles",
+    "current_stock": 6.0,
+    "reorder_level": 2.0,
+    "shelf_life_days": 180,
+    "unit_cost": 8.0,
+    "supplier_notes": "Sugar-free option available"
+  },
+  {
+    "id": "inv_008",
+    "name": "Fresh Berries",
+    "category": "Produce",
+    "unit": "kg",
+    "current_stock": 2.5,
+    "reorder_level": 2.0,
+    "shelf_life_days": 3,
+    "unit_cost": 9.0,
+    "supplier_notes": "Seasonal"
+  }
+]

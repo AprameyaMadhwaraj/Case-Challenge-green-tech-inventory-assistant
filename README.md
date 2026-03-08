@@ -18,9 +18,8 @@ Case-study solution for *small cafes* to track perishable inventory, forecast re
 - **Primary target:** Small cafes with perishable inventory
 - **Core objective:** Reduce overstock/waste while avoiding stock-outs
 
-```
-Design decisions further elaborated in [DESIGN.md](DESIGN.md)
-```
+Design decisions further elaborated in [DESIGN.md](DESIGN.md).
+
 ---
 
 ## Features Implemented
@@ -39,9 +38,6 @@ Design decisions further elaborated in [DESIGN.md](DESIGN.md)
   - Waste risk score (green/amber/red semantics)
 - AI toggle at top (`AI Insights`) to switch AI on/off
 - Floating “Ask me anything” assistant
-
-
-![Alt text](figures\dashboard.png?raw=true "Dashboard")
 
 ---
 

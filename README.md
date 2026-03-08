@@ -17,7 +17,7 @@ Case-study solution for *small cafes* to track perishable inventory, forecast re
 - **Scenario chosen:** Green-Tech Inventory Assistant
 - **Primary target:** Small cafes with perishable inventory
 - **Core objective:** Reduce overstock/waste while avoiding stock-outs
-
+Design decisions further elaborated in [DESIGN.md](https://github.com/AprameyaMadhwaraj/Case-Challenge-green-tech-inventory-assistant/blob/main/DESIGN.md)
 ---
 
 ## Features Implemented
